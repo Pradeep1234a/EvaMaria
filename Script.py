@@ -4,7 +4,8 @@ class script(object):
 To start bot=/start
 How to use bot =/help
 To get details=/stats
-My owner=<a href=https://t.me/pradeep1234a>DailyUpdates</a>"""
+My owner=<a href=https://t.me/pradeep1234a>DailyUpdates</a>
+<a href=https://t.me/Contactpro_bot>DailyUpdates</a>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
